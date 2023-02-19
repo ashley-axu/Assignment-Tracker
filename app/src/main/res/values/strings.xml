@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AssignmentTracker</string>
+    <string-array name="Priority">
+        <item>Select Priority</item>
+        <item>Major</item>
+        <item>Minor</item>
+    </string-array>
+    <string-array name="Assignments">
+        <item>Select Assignment Type</item>
+        <item>Homework</item>
+        <item>Reading</item>
+        <item>Study</item>
+        <item>Essay</item>
+        <item>Exam</item>
+        <item>Quiz</item>
+        <item>Midterm/Final</item>
+    </string-array>
+
+</resources>
